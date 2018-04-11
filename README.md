@@ -10,9 +10,9 @@ More coming.
 
 More coming.  In the meantime, leaving this placeholder:
 
-| Lesson| Subject                      | Status        | 
-|:------------|:-----------------------------|:------------|
-|   1   | How to Get Started              | Not Started |
+| Lesson| Subject                      | Status         |               | 
+|:------------|:-----------------------------|:------------|:---------------|
+|   1   | How to Get Started              | Completed   |  11-Apr-2018  |
 |   2   | Problem Set                     | Not Started | 
 |   3   | Problem Set (Optional)          | Not Started |   
 |   4   | Q & A                           | Not Started | 
