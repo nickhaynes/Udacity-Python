@@ -1,2 +1,46 @@
-# UdacityPython
-Projects and quizzes undertaken as part of the Intro to Computer Science/Python course offered by Udacity.
+# Intro to Computer Science (Python) Course, through Udacity
+
+Projects and quizzes undertaken as part of the Intro to Computer Science course offered by Udacity.
+
+## Description
+
+More coming.
+
+## Course Overview
+
+More coming.  In the meantime, leaving this placeholder:
+
+| Lesson| Subject                      | Status        | 
+|:------------|:-----------------------------|:------------|
+|   1   | How to Get Started              | Not Started |
+|   2   | Problem Set                     | Not Started | 
+|   3   | Problem Set (Optional)          | Not Started |   
+|   4   | Q & A                           | Not Started | 
+|   5   | How to Repeat                   | Not Started | 
+|   6   | Problem Set                     | Not Started |
+|   7   | Problem Set (Optional)          | Not Started | 
+|   8   | Problem Set (Optional 2)        | Not Started |
+|   9   | Q & A                           | Not Started | 
+|  10   | How to Solve Problems           | Not Started | 
+|  11   | How to Manage Data              | Not Started | 
+|  12   | Problem Set                     | Not Started | 
+|  13   | Problem Set (Optional)          | Not Started | 
+|  14   | Problem Set (Optional 2)        | Not Started |
+|  15   | Responding to Queries           | Not Started | 
+|  16   | Problem Set                     | Not Started | 
+|  17   | Problem Set (Optional)          | Not Started | 
+|  18   | How Programs Run                | Not Started |    
+|  19   | Problem Set                     | Not Started | 
+|  20   | Problem Set (Optional)          | Not Started | 
+|  21   | Q & A                           | Not Started |  
+|  22   | How to Have Infinite Power      | Not Started | 
+|  23   | Problem Set                     | Not Started | 
+|  24   | Problem Set 6 Starred           | Not Started | 
+|  25   | Q & A                           | Not Started | 
+|  26   | Past, Present, and Future of Computing  | Not Started | 
+|  27   | Cumulative Practice Problems    | Not Started | 
+|  28   | Challenging Practice Problems   | Not Started | 
+|  29   | Code Editor                     | Not Started | 
+|  30   | Project Prep                    | Not Started | 
+
+#### 
