@@ -19,8 +19,8 @@ More coming.  In the meantime, leaving this placeholder:
 |   5   | How to Repeat                   | Completed    |  18-Apr-2018  | 
 |   6   | Problem Set                     | Completed    |  22-Apr-2018  |
 |   7   | Problem Set (Optional)          | Completed    |  27-Apr-2018  | 
-|   8   | Problem Set (Optional 2)        | _In Progress_| _In Progress_ |
-|   9   | Q & A                           | Not Started  |               |
+|   8   | Problem Set (Optional 2)        | Completed    |  02-May-2018  | 
+|   9   | Q & A                           | _In Progress_| _In Progress_ |
 |  10   | How to Solve Problems           | Not Started  |               |
 |  11   | How to Manage Data              | Not Started  |               |
 |  12   | Problem Set                     | Not Started  |               | 
