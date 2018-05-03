@@ -20,8 +20,8 @@ More coming.  In the meantime, leaving this placeholder:
 |   6   | Problem Set                     | Completed    |  22-Apr-2018  |
 |   7   | Problem Set (Optional)          | Completed    |  27-Apr-2018  | 
 |   8   | Problem Set (Optional 2)        | Completed    |  02-May-2018  | 
-|   9   | Q & A                           | _In Progress_| _In Progress_ |
-|  10   | How to Solve Problems           | Not Started  |               |
+|   9   | Q & A                           | Completed    |  02-May-2018  | 
+|  10   | How to Solve Problems           | _In Progress_| _In Progress_ |
 |  11   | How to Manage Data              | Not Started  |               |
 |  12   | Problem Set                     | Not Started  |               | 
 |  13   | Problem Set (Optional)          | Not Started  |               |
