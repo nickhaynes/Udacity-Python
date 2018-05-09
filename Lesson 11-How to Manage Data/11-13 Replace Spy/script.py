@@ -7,9 +7,9 @@
 
 spy = [0,0,7]
 
-def replace_spy(spy):
-    spy[2]=spy[2]+1
-    return spy
+def replace_spy(a):
+    a[2]=a[2]+1
+    return a
 
 # In the test below, the first line calls your 
 # procedure which will change spy, and the 
